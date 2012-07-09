@@ -5,6 +5,7 @@
 *.pydevproject
 .project
 .metadata
+.autotools
 bin/
 tmp/
 *.tmp
@@ -126,6 +127,8 @@ Thumbs.db
 # Folder config file
 Desktop.ini
 
+*.exe
+*.o
 
 #############
 ## Python

@@ -1,8 +1,10 @@
+#include <iostream>
 
+using namespace std;
 
-void main () {
+int main () {
 	
-	printf("dddd");
+	cout << "sdasd";
 	
-	return;
+	return 0;
 }
